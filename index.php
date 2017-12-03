@@ -635,7 +635,7 @@ else { ?>
         <p>You can upload your files using this tool and get a short link.
         </p>
         <p>This is an open source project located on 
-          <a href="">github
+          <a href="https://github.com/techyowl/fileflyme">github
           </a>.
         </p>
       </footer>
